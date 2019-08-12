@@ -1,4 +1,4 @@
-Testing GitFlow for branches and cloning
+Testing GitFlow for branches
 =========================================
 =========================================
 
