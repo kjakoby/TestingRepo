@@ -1,4 +1,14 @@
-Testing Git Flow for branches and cloning
+Testing GitFlow for branches
+=========================================
 =========================================
 
+THIS WAS ADDED TO TESTING WHILE MAKING A HOTFIX CHANGE!!
+
+This should be added on the Dev Branch!
+
+This will be added in the Testing Branch!
+
+This should be the Feature being worked on and should only be on current machine at this time!
+
 This needs to be added to Dev
+
