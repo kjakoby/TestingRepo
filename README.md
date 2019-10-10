@@ -1,3 +1,6 @@
 # TestingRepo
 
-Trying to push changes
+Current Branches:
+	Master
+	Dev
+	Testing
